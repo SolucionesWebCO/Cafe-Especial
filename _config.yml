@@ -1,8 +1,9 @@
 # Site settings
-title: Cafe Gourmet Colombiano
-email: your-email@domain.com
+title: Cafe del Quindio - Colombia
+email: info@cafedelquindio.cf
 url: https://cafegourmet.cf
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "Cafe 100% de origen Colombiano. Ofrecemos diferentes opciones de consumo, Cafés Gourmet, Especiales de Origen y derivados de Café."
+keywords: "productos de café, ESCUELA,CAFÉ , escuela de café, capacitar, calidad,Colombia, café del quindío, café quindío, cafecitas, arequipe de café, café gourmet, cafés especiales, armenia quindío colombia, galletas de café, génova, cafés de origen"
 baseurl: ""
 
 # Color settings
@@ -11,14 +12,14 @@ color:
   links: '#219ab3'
 
 # Footer settings
-footer: Your Website
+footer: Cafe del Quindio
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: https://twitter.com/SBootstrap
+    url: https://twitter.com/CafeDelQuindio
   - title: facebook
-    url:
+    url: https://facebook.com/CafeDelQuindio
   - title: stack-overflow
     url: http://stackoverflow.com/questions/tagged/jekyll
   - title: bitbucket
