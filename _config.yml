@@ -9,7 +9,7 @@ baseurl: ""
 # Color settings
 color:
   primary-dark: '#000000'
-  links: '#219ab3'
+  links: '#FFFFFF'
 
 # Footer settings
 footer: Cafe del Quindio
